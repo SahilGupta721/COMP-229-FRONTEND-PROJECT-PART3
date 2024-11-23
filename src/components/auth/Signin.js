@@ -76,7 +76,7 @@ const Signin = () => {
                             Submit
                         </button>
                         &nbsp; &nbsp;
-                        <Link to="/users/signup" style={{ textDecoration: 'none' }}>
+                        <Link to="/register" style={{ textDecoration: 'none' }}>
                             <i className="fas fa-user-plus"></i> Sign-up
                         </Link>
 
